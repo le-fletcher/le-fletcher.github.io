@@ -1,0 +1,5 @@
+1. in git
+2. This lab took about 5 hours.
+3. I enjoyed the scrollytelling the most, I really enjoy seeing these in the "wild."
+4. The biggest challenged I faced was pushing changes to my git website. 
+5. I relied on older labs, and Cursor to help me debug my git push errors.
