@@ -4,11 +4,11 @@ class ScrollerVis {
     this.config = {
       parentElement: _config.parentElement,
       containerWidth: 400,
-      containerHeight: 600,
+      containerHeight: 400,
       cellWidth: 50,
       cellHeight: 50,
       cellSpacing: 12,
-      yAxisWidth: 150,
+      yAxisWidth: 250,
       barHeight: 50,
       barSpacing: 4,
       margin: {top: 5, right: 30, bottom: 5, left: 5},

@@ -17,14 +17,14 @@ body {
 
 #vis {
   position: fixed;
-  width: 400px;
+  width: 500px;
 }
 
 #prose {
-  margin-left: 400px;
+  margin-left: 600px;
 }
 #prose .step {
-  height: 500px;
+  height: 600px;
 }
 
 .count {
